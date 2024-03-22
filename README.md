@@ -12,12 +12,15 @@
 
 4.then go to package.json and add the following
 
-{
   "name": "server",
+  
   "version": "1.0.0",
+  
   "description": "",
+  
   "main": "App.js",
-  "type": "module",//add this in project
+  
+  "type": "module",//ADD THIS
   
         "scripts": {
             "start": "nodemon server.js", // add
