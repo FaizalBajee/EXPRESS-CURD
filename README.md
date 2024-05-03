@@ -26,7 +26,3 @@
             "start": "nodemon server.js", // add
           },
           
-![Screenshot_1709299330](https://github.com/FaizalBajee/EXPRESS-CURD/assets/161807564/8c1f78a5-c17c-4516-a4ce-e7e681c29df4)
-
-![Screenshot_1709299326](https://github.com/FaizalBajee/EXPRESS-CURD/assets/161807564/0e2c96de-6913-4494-a0e6-9bb4c2d9ecc4)
-
